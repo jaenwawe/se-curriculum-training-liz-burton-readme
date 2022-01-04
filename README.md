@@ -1,4 +1,4 @@
-# Liz Burton's First Readme
+# Liz's First Readme
 
 ## Learning Goals
 
