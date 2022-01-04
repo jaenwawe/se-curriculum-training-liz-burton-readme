@@ -1,4 +1,4 @@
-# Liz's First Readme
+# Liz First Readme
 
 ## Learning Goals
 
