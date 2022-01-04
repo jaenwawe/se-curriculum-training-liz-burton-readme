@@ -4,7 +4,6 @@
 
 - Learning Goal 1
 - Learning Goal 2
-- Learning Goal 3
 
 ## Introduction
 
